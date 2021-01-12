@@ -14,7 +14,7 @@
 [![hits][hits-img]][hits-url]
 
 [twitter-img]: https://img.shields.io/badge/-@akijoey-1da1f2?style=flat-square&logo=twitter&logoColor=white
-[twitter-url]: https://twitter.com/AkiJoey
+[twitter-url]: https://twitter.com/akijoey
 [steam-img]: https://img.shields.io/badge/-akiri-000000?style=flat-square&logo=steam&logoColor=white
 [steam-url]: https://steamcommunity.com/id/akijoey
 [email-img]: https://img.shields.io/badge/-akijoey@akijoey.com-d14836?style=flat-square&logo=gmail&logoColor=white
