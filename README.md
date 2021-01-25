@@ -23,4 +23,4 @@
 [node-js-img]: https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white
 [node-js-url]: https://nodejs.org
 [hits-img]: https://hits.dwyl.com/akijoey/akijoey.svg
-[hits-url]: https://hits.dwyl.com
+[hits-url]: https://hits.dwyl.com/akijoey/akijoey
