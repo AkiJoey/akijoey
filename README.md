@@ -7,7 +7,7 @@
 [![emacs][emacs-img]][emacs-url]
 [![typescript][typescript-img]][typescript-url]
 [![node-js][node-js-img]][node-js-url]
-[![views][views-image]][views-url]
+![views][views-image]
 
 [twitter-img]: https://img.shields.io/badge/-@akijoey-1da1f2?style=flat-square&logo=twitter&logoColor=white
 [twitter-url]: https://twitter.com/akijoey
