@@ -7,7 +7,7 @@
 [![emacs][emacs-img]][emacs-url]
 [![typescript][typescript-img]][typescript-url]
 [![node-js][node-js-img]][node-js-url]
-[![hits][hits-img]][hits-url]
+[![views][views-image]][views-url]
 
 [twitter-img]: https://img.shields.io/badge/-@akijoey-1da1f2?style=flat-square&logo=twitter&logoColor=white
 [twitter-url]: https://twitter.com/akijoey
@@ -22,5 +22,5 @@
 [typescript-url]: https://www.typescriptlang.org
 [node-js-img]: https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white
 [node-js-url]: https://nodejs.org
-[hits-img]: https://hits.dwyl.com/akijoey/akijoey.svg
-[hits-url]: https://hits.dwyl.com/akijoey/akijoey
+[views-image]: https://views-badge.glitch.me/akijoey
+[views-url]: https://github.com/AkiJoey/views-badge
