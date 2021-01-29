@@ -22,5 +22,5 @@
 [typescript-url]: https://www.typescriptlang.org
 [node-js-img]: https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white
 [node-js-url]: https://nodejs.org
-[views-image]: https://views-badge.glitch.me/akijoey?style=flat-square
+[views-image]: https://views-badge.glitch.me/akijoey?style=flat
 [views-url]: https://github.com/akijoey/views-badge
