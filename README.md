@@ -20,7 +20,7 @@
 [emacs-url]: https://www.gnu.org/software/emacs
 [typescript-img]: https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white
 [typescript-url]: https://www.typescriptlang.org
-[node-js-img]: https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white
+[node-js-img]: https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=white
 [node-js-url]: https://nodejs.org
 [views-image]: https://views-badge.glitch.me/akijoey?style=flat-square
 [views-url]: https://github.com/akijoey/views-badge
