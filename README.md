@@ -2,7 +2,7 @@
 
 > Emacs enthusiast and front end developer.
 
-<img src="https://github-readme-stats.vercel.app/api?username=akijoey&show_icons=true&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=akijoey&show_icons=true&hide_title=true&theme=transparent" />
 
 [![emacs][emacs-img]][emacs-url]
 [![typescript][typescript-img]][typescript-url]
